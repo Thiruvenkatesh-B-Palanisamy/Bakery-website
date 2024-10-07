@@ -1,0 +1,1 @@
+This is an apt website for locally owned small bakery in Townsville. This website is made as minimalistc as possible with necessary information to convey for the user and for a small business owner to maintain. 
